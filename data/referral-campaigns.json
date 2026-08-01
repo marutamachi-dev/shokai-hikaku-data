@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T14:58:43.566Z",
+  "updatedAt": "2026-08-01T17:49:35.375Z",
   "campaigns": [
     {
       "id": "campaign-104525761",
@@ -21,21 +21,22 @@
       "officialVerification": {
         "url": "https://network.mobile.rakuten.co.jp/campaign/referral/",
         "sourceType": "official_campaign",
-        "checkedAt": "2026-07-02T06:55:00.779Z",
+        "checkedAt": "2026-08-01T17:49:34.961Z",
         "evidence": [
           "楽天モバイル紹介キャンペーン",
           "終了日未定",
-          "紹介"
+          "紹介",
+          "友達"
         ]
       },
       "discoveredAt": "2026-07-02T05:59:42.330Z",
-      "updatedAt": "2026-07-02T06:55:00.779Z",
+      "updatedAt": "2026-08-01T17:49:34.961Z",
       "officialImage": {
         "url": "https://network.mobile.rakuten.co.jp/assets/img/campaign/referral/img-ogp-250407.png",
         "sourceUrl": "https://network.mobile.rakuten.co.jp/campaign/referral/",
         "sourceType": "open_graph",
         "alt": "楽天モバイル 公式画像",
-        "checkedAt": "2026-07-02T13:28:41.466Z"
+        "checkedAt": "2026-08-01T17:49:34.961Z"
       }
     },
     {
@@ -57,7 +58,7 @@
       "officialVerification": {
         "url": "https://povo.jp/spec/friend_invite/",
         "sourceType": "official_campaign",
-        "checkedAt": "2026-07-02T06:55:00.775Z",
+        "checkedAt": "2026-08-01T17:49:34.942Z",
         "evidence": [
           "紹介キャンペーン",
           "公式ページで実施状況を確認済み",
@@ -65,19 +66,19 @@
         ]
       },
       "discoveredAt": "2026-07-02T05:59:42.308Z",
-      "updatedAt": "2026-07-02T06:55:00.775Z",
+      "updatedAt": "2026-08-01T17:49:34.942Z",
       "officialImage": {
         "url": "https://povo.jp/cms/povo/OGP/20231201_povo_New_OGP-image_1200-630.jpg",
         "sourceUrl": "https://povo.jp/spec/friend_invite/",
         "sourceType": "open_graph",
         "alt": "povo 公式画像",
-        "checkedAt": "2026-07-02T13:28:41.466Z"
+        "checkedAt": "2026-08-01T17:49:34.942Z"
       },
       "officialLogo": {
         "url": "https://povo.jp/cms/povo/img/common/logo.svg",
         "sourceUrl": "https://povo.jp/spec/friend_invite/",
         "alt": "povo",
-        "checkedAt": "2026-07-02T14:58:43.566Z"
+        "checkedAt": "2026-08-01T17:49:34.942Z"
       }
     },
     {
@@ -206,7 +207,7 @@
         ]
       },
       "discoveredAt": "2026-07-01T11:22:00.000Z",
-      "updatedAt": "2026-07-02T06:55:02.281Z"
+      "updatedAt": "2026-08-01T17:49:35.376Z"
     },
     {
       "id": "campaign-1929800160",
@@ -338,7 +339,7 @@
       "genre": "ポイント",
       "status": "active",
       "reviewStatus": "published",
-      "officialStatusText": "キャンペーン期間中に新規会員登録すると（紹介上限500人） ※エントリー必須 キャンペーン中！ 300 pt/人 2026年9月上旬 キャンペーン期間中、最初の紹介で登録したお",
+      "officialStatusText": "キャンペーン期間中に新規会員登録すると（紹介上限500人） ※エントリー必須 キャンペーン中！ 300 pt/人 2026年10月上旬 キャンペーン期間中、最初の紹介で登録した",
       "referrerBenefit": {
         "label": "300pt"
       },
@@ -350,22 +351,22 @@
       "officialVerification": {
         "url": "https://hapitas.jp/friend/",
         "sourceType": "official_campaign",
-        "checkedAt": "2026-07-02T06:55:00.877Z",
+        "checkedAt": "2026-08-01T17:49:35.057Z",
         "evidence": [
           "友達紹介",
-          "キャンペーン期間中に新規会員登録すると（紹介上限500人） ※エントリー必須 キャンペーン中！ 300 pt/人 2026年9月上旬 キャンペーン期間中、最初の紹介で登録したお",
+          "キャンペーン期間中に新規会員登録すると（紹介上限500人） ※エントリー必須 キャンペーン中！ 300 pt/人 2026年10月上旬 キャンペーン期間中、最初の紹介で登録した",
           "紹介",
           "友達"
         ]
       },
       "discoveredAt": "2026-07-02T05:59:42.335Z",
-      "updatedAt": "2026-07-02T06:55:00.877Z",
+      "updatedAt": "2026-08-01T17:49:35.057Z",
       "officialImage": {
         "url": "https://img.hapitas.jp/img/images/facebook_share_logo_white.png",
         "sourceUrl": "https://hapitas.jp/friend/",
         "sourceType": "open_graph",
         "alt": "ハピタス 公式画像",
-        "checkedAt": "2026-07-02T13:28:41.466Z"
+        "checkedAt": "2026-08-01T17:49:35.057Z"
       }
     },
     {
@@ -387,7 +388,7 @@
       "officialVerification": {
         "url": "https://www.warau.jp/friend/",
         "sourceType": "official_campaign",
-        "checkedAt": "2026-07-02T06:55:00.922Z",
+        "checkedAt": "2026-08-01T17:49:35.074Z",
         "evidence": [
           "友達紹介キャンペーン",
           "公式ページで実施状況を確認済み",
@@ -396,19 +397,19 @@
         ]
       },
       "discoveredAt": "2026-07-02T05:59:42.399Z",
-      "updatedAt": "2026-07-02T06:55:00.922Z",
+      "updatedAt": "2026-08-01T17:49:35.074Z",
       "officialImage": {
         "url": "https://www.warau.jp/favicon.ico",
         "sourceUrl": "https://www.warau.jp/friend/",
         "sourceType": "favicon",
         "alt": "ワラウ 公式画像",
-        "checkedAt": "2026-07-02T13:28:41.466Z"
+        "checkedAt": "2026-08-01T17:49:35.074Z"
       },
       "officialLogo": {
         "url": "https://warau.akamaized.net/www.warau.jp/images/object/component/logo/warau-logo.svg?1646300502",
         "sourceUrl": "https://www.warau.jp/friend/",
         "alt": "ポイ活ならワラウ",
-        "checkedAt": "2026-07-02T14:58:43.566Z"
+        "checkedAt": "2026-08-01T17:49:35.074Z"
       }
     },
     {
@@ -416,7 +417,7 @@
       "serviceName": "楽天カード",
       "campaignName": "紹介特典",
       "genre": "金融",
-      "status": "active",
+      "status": "ended",
       "reviewStatus": "rejected",
       "startDate": "2026-06-19",
       "endDate": "2026-07-06",
@@ -440,7 +441,7 @@
         ]
       },
       "discoveredAt": "2026-07-02T05:59:42.663Z",
-      "updatedAt": "2026-07-02T06:26:51.579Z",
+      "updatedAt": "2026-08-01T17:49:35.376Z",
       "officialImage": {
         "url": "https://image.card.jp.rakuten-static.com/card_corp/pc/contents/logo_200x200.gif",
         "sourceUrl": "https://www.rakuten-card.co.jp/campaign/",
@@ -683,7 +684,7 @@
       "officialVerification": {
         "url": "https://share.timescar.jp/campaign/friend/",
         "sourceType": "official_campaign",
-        "checkedAt": "2026-07-02T06:55:00.795Z",
+        "checkedAt": "2026-08-01T17:49:35.033Z",
         "evidence": [
           "友達紹介キャンペーン",
           "公式ページで実施状況を確認済み",
@@ -692,13 +693,13 @@
         ]
       },
       "discoveredAt": "2026-07-02T06:20:53.247Z",
-      "updatedAt": "2026-07-02T06:55:00.795Z",
+      "updatedAt": "2026-08-01T17:49:35.033Z",
       "officialImage": {
         "url": "https://share.timescar.jp/favicon-apple.png",
         "sourceUrl": "https://share.timescar.jp/campaign/friend/",
         "sourceType": "favicon",
         "alt": "Times CAR 公式画像",
-        "checkedAt": "2026-07-02T13:28:41.466Z"
+        "checkedAt": "2026-08-01T17:49:35.033Z"
       }
     },
     {
@@ -720,7 +721,7 @@
       "officialVerification": {
         "url": "https://paypay.ne.jp/event/referral/",
         "sourceType": "official_campaign",
-        "checkedAt": "2026-07-02T06:55:00.930Z",
+        "checkedAt": "2026-08-01T17:49:35.092Z",
         "evidence": [
           "紹介特典",
           "終了日未定",
@@ -729,19 +730,19 @@
         ]
       },
       "discoveredAt": "2026-07-02T06:20:53.329Z",
-      "updatedAt": "2026-07-02T06:55:00.930Z",
+      "updatedAt": "2026-08-01T17:49:35.092Z",
       "officialImage": {
         "url": "https://paypay.ne.jp/uploads/2024/05/img_referral_ogp_01.png",
         "sourceUrl": "https://paypay.ne.jp/event/referral/",
         "sourceType": "open_graph",
         "alt": "PayPay 公式画像",
-        "checkedAt": "2026-07-02T13:28:41.466Z"
+        "checkedAt": "2026-08-01T17:49:35.092Z"
       },
       "officialLogo": {
         "url": "https://image.paypay.ne.jp/page/common/images/ico_logo_paypay.svg",
         "sourceUrl": "https://paypay.ne.jp/event/referral/",
         "alt": "PayPay",
-        "checkedAt": "2026-07-02T14:58:43.566Z"
+        "checkedAt": "2026-08-01T17:49:35.092Z"
       }
     },
     {
@@ -806,7 +807,7 @@
       "officialVerification": {
         "url": "https://eikaiwa.dmm.com/pages/friends-referral/",
         "sourceType": "official_campaign",
-        "checkedAt": "2026-07-02T06:55:00.772Z",
+        "checkedAt": "2026-08-01T17:49:34.927Z",
         "evidence": [
           "お友達紹介プログラム",
           "公式ページで実施状況を確認済み",
@@ -815,19 +816,19 @@
         ]
       },
       "discoveredAt": "2026-07-02T06:26:51.242Z",
-      "updatedAt": "2026-07-02T06:55:00.772Z",
+      "updatedAt": "2026-08-01T17:49:34.927Z",
       "officialImage": {
         "url": "https://assets.marketing.engoo.com/wp-content/uploads/sites/3/2026/06/18151622/ogp_referrer.jpg",
         "sourceUrl": "https://eikaiwa.dmm.com/pages/friends-referral/",
         "sourceType": "open_graph",
         "alt": "DMM英会話 公式画像",
-        "checkedAt": "2026-07-02T13:28:41.466Z"
+        "checkedAt": "2026-08-01T17:49:34.927Z"
       },
       "officialLogo": {
         "url": "https://p-smith.com/logo/eikaiwa_com.svg",
         "sourceUrl": "https://eikaiwa.dmm.com/pages/friends-referral/",
         "alt": "世界とつながるオンライン英会話 DMM英会話",
-        "checkedAt": "2026-07-02T14:58:43.566Z"
+        "checkedAt": "2026-08-01T17:49:34.927Z"
       }
     },
     {
@@ -837,7 +838,6 @@
       "genre": "通信",
       "status": "active",
       "reviewStatus": "published",
-      "startDate": "2025-08-01",
       "officialStatusText": "終了日未定",
       "referrerBenefit": {
         "label": "2,500円相当"
@@ -847,21 +847,25 @@
       "officialVerification": {
         "url": "https://www.ymobile.jp/cp/invitation/",
         "sourceType": "official_campaign",
-        "checkedAt": "2026-07-02T06:55:00.793Z",
+        "checkedAt": "2026-08-01T17:49:35.024Z",
         "evidence": [
           "紹介キャンペーン",
           "終了日未定",
-          "紹介"
+          "紹介",
+          "友だち"
         ]
       },
       "discoveredAt": "2026-07-02T06:26:51.347Z",
-      "updatedAt": "2026-07-02T06:55:00.793Z",
+      "updatedAt": "2026-08-01T17:49:35.024Z",
       "officialImage": {
         "url": "https://www.ymobile.jp/common_c/images/common/ogp.png",
         "sourceUrl": "https://www.ymobile.jp/cp/invitation/",
         "sourceType": "open_graph",
         "alt": "Y!mobile 公式画像",
-        "checkedAt": "2026-07-02T13:28:41.466Z"
+        "checkedAt": "2026-08-01T17:49:35.024Z"
+      },
+      "inviteeBenefit": {
+        "label": "550円"
       }
     },
     {
@@ -885,7 +889,7 @@
       "officialVerification": {
         "url": "https://www.uqwimax.jp/mobile/cp/introduction/2026/",
         "sourceType": "official_campaign",
-        "checkedAt": "2026-07-02T06:55:00.791Z",
+        "checkedAt": "2026-08-01T17:49:35.006Z",
         "evidence": [
           "UQ mobile紹介キャンペーン",
           "キャンペーン期間中（2026年4月1日～2026年5月10日）に「対象料金プラン ★ 」に新たにお申し込み ＜対象料金プラン＞ コミコミプランバリュー、トクトクプラン2 ＜特典",
@@ -894,25 +898,25 @@
         ]
       },
       "discoveredAt": "2026-07-02T06:34:36.958Z",
-      "updatedAt": "2026-07-02T06:55:02.281Z",
+      "updatedAt": "2026-08-01T17:49:35.376Z",
       "officialImage": {
         "url": "https://www.uqwimax.jp/mobile/cp/introduction/2026/img/ogp.jpg?v=260401",
         "sourceUrl": "https://www.uqwimax.jp/mobile/cp/introduction/2026/",
         "sourceType": "open_graph",
         "alt": "UQ mobile 公式画像",
-        "checkedAt": "2026-07-02T13:28:41.466Z"
+        "checkedAt": "2026-08-01T17:49:35.006Z"
       },
       "officialLogo": {
         "url": "https://www.uqwimax.jp/assets/v2/common/images/logo_uqmobile.svg",
         "sourceUrl": "https://www.uqwimax.jp/mobile/cp/introduction/2026/",
         "alt": "UQ mobile",
-        "checkedAt": "2026-07-02T14:58:43.566Z"
+        "checkedAt": "2026-08-01T17:49:35.006Z"
       }
     },
     {
       "id": "campaign-249519995",
       "serviceName": "ネイティブキャンプ",
-      "campaignName": "お友達ご紹介キャンペーン",
+      "campaignName": "友達紹介キャンペーン",
       "genre": "学習",
       "status": "active",
       "reviewStatus": "published",
@@ -928,28 +932,28 @@
       "officialVerification": {
         "url": "https://nativecamp.net/campaign/invite_friends",
         "sourceType": "official_campaign",
-        "checkedAt": "2026-07-02T06:55:00.747Z",
+        "checkedAt": "2026-08-01T17:49:34.887Z",
         "evidence": [
-          "友達紹介",
+          "友達紹介キャンペーン",
           "公式ページで実施状況を確認済み",
           "紹介",
           "招待"
         ]
       },
       "discoveredAt": "2026-07-02T06:45:23.817Z",
-      "updatedAt": "2026-07-02T06:55:00.747Z",
+      "updatedAt": "2026-08-01T17:49:34.887Z",
       "officialImage": {
-        "url": "https://nativecamp.net/images/logo_ogp.png?v=ddfab7b80b5",
+        "url": "https://nativecamp.net/images/logo_ogp.png?v=9028e2746f8",
         "sourceUrl": "https://nativecamp.net/campaign/invite_friends",
         "sourceType": "open_graph",
         "alt": "ネイティブキャンプ 公式画像",
-        "checkedAt": "2026-07-02T13:28:41.466Z"
+        "checkedAt": "2026-08-01T17:49:34.887Z"
       },
       "officialLogo": {
         "url": "https://nativecamp.net/user/images/common/logo_s.webp?v=2.1",
         "sourceUrl": "https://nativecamp.net/campaign/invite_friends",
         "alt": "オンライン英会話はネイティブキャンプ（Native Camp）",
-        "checkedAt": "2026-07-02T14:58:43.566Z"
+        "checkedAt": "2026-08-01T17:49:34.887Z"
       }
     },
     {
@@ -971,7 +975,7 @@
       "officialVerification": {
         "url": "https://www.rakuten-sec.co.jp/web/service/introduction/",
         "sourceType": "official_campaign",
-        "checkedAt": "2026-07-02T06:55:00.872Z",
+        "checkedAt": "2026-08-01T17:49:35.045Z",
         "evidence": [
           "お友達紹介プログラム",
           "公式ページで実施状況を確認済み",
@@ -980,13 +984,13 @@
         ]
       },
       "discoveredAt": "2026-07-02T06:55:00.872Z",
-      "updatedAt": "2026-07-02T06:55:00.872Z",
+      "updatedAt": "2026-08-01T17:49:35.045Z",
       "officialImage": {
         "url": "https://www.rakuten-sec.co.jp/web/images/banners/service_introduction/og-image.png",
         "sourceUrl": "https://www.rakuten-sec.co.jp/web/service/introduction/",
         "sourceType": "open_graph",
         "alt": "楽天証券 公式画像",
-        "checkedAt": "2026-07-02T13:28:41.466Z"
+        "checkedAt": "2026-08-01T17:49:35.045Z"
       }
     },
     {
@@ -1008,7 +1012,7 @@
       "officialVerification": {
         "url": "https://www.chobirich.com/introduction/",
         "sourceType": "official_campaign",
-        "checkedAt": "2026-07-02T06:55:01.081Z",
+        "checkedAt": "2026-08-01T17:49:35.333Z",
         "evidence": [
           "お友達紹介制度",
           "公式ページで実施状況を確認済み",
@@ -1017,23 +1021,793 @@
         ]
       },
       "discoveredAt": "2026-07-02T06:55:01.081Z",
-      "updatedAt": "2026-07-02T06:55:01.081Z",
+      "updatedAt": "2026-08-01T17:49:35.333Z",
       "officialImage": {
         "url": "https://www.cdn.chobirich.com/web/favicon/apple-touch-icon-180x180.png",
         "sourceUrl": "https://www.chobirich.com/introduction/",
         "sourceType": "favicon",
         "alt": "ちょびリッチ 公式画像",
-        "checkedAt": "2026-07-02T13:28:41.466Z"
+        "checkedAt": "2026-08-01T17:49:35.333Z"
       },
       "officialLogo": {
         "url": "https://www.cdn.chobirich.com/web/header/sp_header_logo.svg",
         "sourceUrl": "https://www.chobirich.com/introduction/",
         "alt": "ちょびリッチ",
-        "checkedAt": "2026-07-02T14:58:43.566Z"
+        "checkedAt": "2026-08-01T17:49:35.333Z"
       }
     }
   ],
   "diagnostics": [
+    {
+      "id": "run-2026-08-01T17-49-35-375Z",
+      "ranAt": "2026-08-01T17:49:35.375Z",
+      "generatedKeywords": 80,
+      "candidateUrls": 76,
+      "fetchedUrls": 20,
+      "published": 12,
+      "needsReview": 0,
+      "rejected": 8,
+      "skipped": 56,
+      "persisted": true,
+      "rejectionReasons": {
+        "fetch_failed": 2,
+        "missing_referral_signal": 4,
+        "missing_status_signal": 0,
+        "missing_benefit_signal": 2,
+        "low_confidence": 0,
+        "not_fetched": 56
+      },
+      "candidates": [
+        {
+          "serviceName": "ネイティブキャンプ",
+          "genre": "学習",
+          "keyword": "ネイティブキャンプ 友達紹介 公式",
+          "url": "https://nativecamp.net/campaign/invite_friends",
+          "score": 204,
+          "sourceType": "official_campaign",
+          "outcome": "published"
+        },
+        {
+          "serviceName": "DMM英会話",
+          "genre": "学習",
+          "keyword": "DMM英会話 紹介キャンペーン 公式",
+          "url": "https://eikaiwa.dmm.com/pages/friends-referral/",
+          "score": 192,
+          "sourceType": "official_campaign",
+          "outcome": "published"
+        },
+        {
+          "serviceName": "povo",
+          "genre": "通信",
+          "keyword": "povo 友達紹介プログラム 公式",
+          "url": "https://povo.jp/spec/friend_invite/",
+          "score": 150,
+          "sourceType": "official_campaign",
+          "outcome": "published"
+        },
+        {
+          "serviceName": "楽天モバイル",
+          "genre": "通信",
+          "keyword": "楽天モバイル 紹介キャンペーン 公式",
+          "url": "https://network.mobile.rakuten.co.jp/campaign/referral/",
+          "score": 102,
+          "sourceType": "official_campaign",
+          "outcome": "published"
+        },
+        {
+          "serviceName": "PayPayカード",
+          "genre": "金融",
+          "keyword": "PayPayカード 紹介キャンペーン 公式",
+          "url": "https://www.paypay-card.co.jp/campaign/referral/",
+          "score": 102,
+          "sourceType": "official_campaign",
+          "outcome": "rejected",
+          "reason": "missing_referral_signal"
+        },
+        {
+          "serviceName": "UQ mobile",
+          "genre": "通信",
+          "keyword": "UQ mobile 紹介キャンペーン 公式",
+          "url": "https://www.uqwimax.jp/mobile/cp/introduction/2026/",
+          "score": 102,
+          "sourceType": "official_campaign",
+          "outcome": "published"
+        },
+        {
+          "serviceName": "Y!mobile",
+          "genre": "通信",
+          "keyword": "ワイモバイル 紹介キャンペーン 公式",
+          "url": "https://www.ymobile.jp/cp/invitation/",
+          "score": 102,
+          "sourceType": "official_campaign",
+          "outcome": "published"
+        },
+        {
+          "serviceName": "Times CAR",
+          "genre": "交通",
+          "keyword": "タイムズカー 紹介キャンペーン 公式",
+          "url": "https://share.timescar.jp/campaign/friend/",
+          "score": 102,
+          "sourceType": "official_campaign",
+          "outcome": "published"
+        },
+        {
+          "serviceName": "楽天証券",
+          "genre": "金融",
+          "keyword": "楽天証券 紹介プログラム 公式",
+          "url": "https://www.rakuten-sec.co.jp/web/service/introduction/",
+          "score": 90,
+          "sourceType": "official_campaign",
+          "outcome": "published"
+        },
+        {
+          "serviceName": "ハピタス",
+          "genre": "ポイント",
+          "keyword": "ハピタス 友達紹介 公式",
+          "url": "https://hapitas.jp/friend/",
+          "score": 90,
+          "sourceType": "official_campaign",
+          "outcome": "published"
+        },
+        {
+          "serviceName": "ポイントインカム",
+          "genre": "ポイント",
+          "keyword": "ポイントインカム 友達紹介 公式",
+          "url": "https://pointi.jp/friend/",
+          "score": 90,
+          "sourceType": "official_campaign",
+          "outcome": "rejected",
+          "reason": "missing_referral_signal"
+        },
+        {
+          "serviceName": "ワラウ",
+          "genre": "ポイント",
+          "keyword": "ワラウ 友達紹介 公式",
+          "url": "https://www.warau.jp/friend/",
+          "score": 90,
+          "sourceType": "official_campaign",
+          "outcome": "published"
+        },
+        {
+          "serviceName": "ECナビ",
+          "genre": "ポイント",
+          "keyword": "ECナビ 友達紹介 公式",
+          "url": "https://ecnavi.jp/invite/",
+          "score": 90,
+          "sourceType": "official_campaign",
+          "outcome": "rejected",
+          "reason": "missing_benefit_signal"
+        },
+        {
+          "serviceName": "PayPay",
+          "genre": "ポイント",
+          "keyword": "PayPay 友だち紹介キャンペーン 公式",
+          "url": "https://paypay.ne.jp/event/referral/",
+          "score": 90,
+          "sourceType": "official_campaign",
+          "outcome": "published"
+        },
+        {
+          "serviceName": "ポイントタウン",
+          "genre": "ポイント",
+          "keyword": "ポイントタウン 友達紹介 公式",
+          "url": "https://www.pointtown.com/invite/",
+          "score": 72,
+          "sourceType": "official_campaign",
+          "outcome": "rejected",
+          "reason": "fetch_failed"
+        },
+        {
+          "serviceName": "ちょびリッチ",
+          "genre": "ポイント",
+          "keyword": "ちょびリッチ 友達紹介 公式",
+          "url": "https://www.chobirich.com/introduction/",
+          "score": 72,
+          "sourceType": "official_campaign",
+          "outcome": "published"
+        },
+        {
+          "serviceName": "メルカリ",
+          "genre": "買い物",
+          "keyword": "メルカリ 招待キャンペーン 公式",
+          "url": "https://help.jp.mercari.com/guide/articles/113/",
+          "score": 54,
+          "sourceType": "official_help",
+          "outcome": "rejected",
+          "reason": "missing_referral_signal"
+        },
+        {
+          "serviceName": "menu",
+          "genre": "フード・宅配",
+          "keyword": "menu 友達紹介キャンペーン 公式",
+          "url": "https://help.menu.jp/hc/ja",
+          "score": 42,
+          "sourceType": "official_help",
+          "outcome": "rejected",
+          "reason": "fetch_failed"
+        },
+        {
+          "serviceName": "LINEMO",
+          "genre": "通信",
+          "keyword": "LINEMO 紹介キャンペーン 公式",
+          "url": "https://www.linemo.jp/campaign/",
+          "score": 42,
+          "sourceType": "official_campaign",
+          "outcome": "rejected",
+          "reason": "missing_referral_signal"
+        },
+        {
+          "serviceName": "Y!mobile",
+          "genre": "通信",
+          "keyword": "ワイモバイル 紹介キャンペーン 公式",
+          "url": "https://www.ymobile.jp/cp/",
+          "score": 42,
+          "sourceType": "official_campaign",
+          "outcome": "rejected",
+          "reason": "missing_benefit_signal"
+        },
+        {
+          "serviceName": "IIJmio",
+          "genre": "通信",
+          "keyword": "IIJmio 紹介キャンペーン 公式",
+          "url": "https://www.iijmio.jp/campaign/",
+          "score": 42,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "エキサイトモバイル",
+          "genre": "通信",
+          "keyword": "エキサイトモバイル 紹介キャンペーン 公式",
+          "url": "https://bb.excite.co.jp/exmb/campaign/",
+          "score": 42,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "楽天カード",
+          "genre": "金融",
+          "keyword": "楽天カード 紹介キャンペーン 公式",
+          "url": "https://www.rakuten-card.co.jp/campaign/rakuten_card/susumail/",
+          "score": 42,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "JCBカード",
+          "genre": "金融",
+          "keyword": "JCBカード 紹介キャンペーン 公式",
+          "url": "https://www.jcb.co.jp/campaign/",
+          "score": 42,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "エポスカード",
+          "genre": "金融",
+          "keyword": "エポスカード 紹介キャンペーン 公式",
+          "url": "https://www.eposcard.co.jp/campaign/index.html",
+          "score": 42,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "イオンカード",
+          "genre": "金融",
+          "keyword": "イオンカード 紹介キャンペーン 公式",
+          "url": "https://www.aeon.co.jp/campaign/",
+          "score": 42,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "マネックス証券",
+          "genre": "金融",
+          "keyword": "マネックス証券 紹介キャンペーン 公式",
+          "url": "https://info.monex.co.jp/campaign/",
+          "score": 42,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "松井証券",
+          "genre": "金融",
+          "keyword": "松井証券 紹介キャンペーン 公式",
+          "url": "https://www.matsui.co.jp/campaign/",
+          "score": 42,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "PayPay銀行",
+          "genre": "金融",
+          "keyword": "PayPay銀行 紹介キャンペーン 公式",
+          "url": "https://www.paypay-bank.co.jp/campaign/",
+          "score": 42,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "住信SBIネット銀行",
+          "genre": "金融",
+          "keyword": "住信SBIネット銀行 紹介キャンペーン 公式",
+          "url": "https://www.netbk.co.jp/contents/campaign/",
+          "score": 42,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "Amazon Prime",
+          "genre": "サブスク",
+          "keyword": "Amazon Prime 紹介キャンペーン 公式",
+          "url": "https://www.amazon.co.jp/gp/help/customer/display.html",
+          "score": 42,
+          "sourceType": "official_help",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "楽天市場",
+          "genre": "買い物",
+          "keyword": "楽天市場 紹介キャンペーン 公式",
+          "url": "https://event.rakuten.co.jp/campaign/",
+          "score": 42,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "ラクマ",
+          "genre": "買い物",
+          "keyword": "ラクマ 招待キャンペーン 公式",
+          "url": "https://fril.jp/guide",
+          "score": 42,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "タイミー",
+          "genre": "暮らし",
+          "keyword": "タイミー 友達紹介 公式",
+          "url": "https://help.timee.co.jp/ja/",
+          "score": 42,
+          "sourceType": "official_help",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "クラウドワークス",
+          "genre": "暮らし",
+          "keyword": "クラウドワークス 紹介キャンペーン 公式",
+          "url": "https://crowdworks.jp/pages/guides",
+          "score": 42,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "スタディサプリ",
+          "genre": "学習",
+          "keyword": "スタディサプリ 紹介キャンペーン 公式",
+          "url": "https://studysapuri.jp/campaign/",
+          "score": 42,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "楽天ペイ",
+          "genre": "ポイント",
+          "keyword": "楽天ペイ 紹介キャンペーン 公式",
+          "url": "https://pay.rakuten.co.jp/campaign/",
+          "score": 42,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "au PAY",
+          "genre": "ポイント",
+          "keyword": "au PAY 紹介キャンペーン 公式",
+          "url": "https://aupay.wallet.auone.jp/campaign/",
+          "score": 42,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "d払い",
+          "genre": "ポイント",
+          "keyword": "d払い 紹介キャンペーン 公式",
+          "url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/",
+          "score": 42,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "GO",
+          "genre": "交通",
+          "keyword": "GO タクシー 友達紹介 クーポン 公式",
+          "url": "https://go.goinc.jp/",
+          "score": 30,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "mineo",
+          "genre": "通信",
+          "keyword": "mineo 紹介キャンペーン 公式",
+          "url": "https://mineo.jp/service/discount/fan-toku/",
+          "score": 30,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "Olive",
+          "genre": "金融",
+          "keyword": "Olive 紹介キャンペーン 公式",
+          "url": "https://www.smbc.co.jp/kojin/olive/special/offers/",
+          "score": 30,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "SBI証券",
+          "genre": "金融",
+          "keyword": "SBI証券 紹介プログラム 公式",
+          "url": "https://www.sbisec.co.jp/ETGate",
+          "score": 30,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "OniGO",
+          "genre": "フード・宅配",
+          "keyword": "OniGO 友達紹介 公式",
+          "url": "https://onigo.co.jp/",
+          "score": 30,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "Yahoo!ショッピング",
+          "genre": "買い物",
+          "keyword": "Yahoo!ショッピング 紹介キャンペーン 公式",
+          "url": "https://shopping.yahoo.co.jp/promotion/",
+          "score": 30,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "PayPayフリマ",
+          "genre": "買い物",
+          "keyword": "PayPayフリマ 紹介キャンペーン 公式",
+          "url": "https://paypayfleamarket.yahoo.co.jp/",
+          "score": 30,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "Creema",
+          "genre": "買い物",
+          "keyword": "Creema 紹介キャンペーン 公式",
+          "url": "https://www.creema.jp/",
+          "score": 30,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "くらしのマーケット",
+          "genre": "暮らし",
+          "keyword": "くらしのマーケット 紹介キャンペーン 公式",
+          "url": "https://curama.jp/",
+          "score": 30,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "DiDi",
+          "genre": "交通",
+          "keyword": "DiDi タクシー 紹介クーポン 公式",
+          "url": "https://didimobility.co.jp/",
+          "score": 30,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "S.RIDE",
+          "genre": "交通",
+          "keyword": "S.RIDE 紹介クーポン 公式",
+          "url": "https://www.sride.jp/",
+          "score": 30,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "HELLO CYCLING",
+          "genre": "交通",
+          "keyword": "HELLO CYCLING 紹介キャンペーン 公式",
+          "url": "https://www.hellocycling.jp/",
+          "score": 30,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "モッピー",
+          "genre": "ポイント",
+          "keyword": "モッピー 友達紹介 公式",
+          "url": "https://pc.moppy.jp/ad/detail.php?s_id=157738",
+          "score": 30,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "Powl",
+          "genre": "ポイント",
+          "keyword": "Powl 友達紹介 公式",
+          "url": "https://static.powl.jp/",
+          "score": 30,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "HISモバイル",
+          "genre": "通信",
+          "keyword": "HISモバイル 紹介キャンペーン 公式",
+          "url": "https://his-mobile.com/campaign",
+          "score": 24,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "みんなの銀行",
+          "genre": "金融",
+          "keyword": "みんなの銀行 紹介キャンペーン 公式",
+          "url": "https://www.minna-no-ginko.com/campaign/",
+          "score": 24,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "Coincheck",
+          "genre": "金融",
+          "keyword": "Coincheck 紹介キャンペーン 公式",
+          "url": "https://coincheck.com/ja/campaigns",
+          "score": 24,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "bitFlyer",
+          "genre": "金融",
+          "keyword": "bitFlyer 紹介キャンペーン 公式",
+          "url": "https://bitflyer.com/ja-jp/campaign",
+          "score": 24,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "Uber Eats",
+          "genre": "フード・宅配",
+          "keyword": "Uber Eats 友達紹介 公式",
+          "url": "https://help.uber.com/ubereats",
+          "score": 24,
+          "sourceType": "official_help",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "ココナラ",
+          "genre": "暮らし",
+          "keyword": "ココナラ 招待キャンペーン 公式",
+          "url": "https://coconala.com/pages/campaigns",
+          "score": 24,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "DMM英会話",
+          "genre": "学習",
+          "keyword": "DMM英会話 紹介キャンペーン 公式",
+          "url": "https://eikaiwa.dmm.com/campaign/",
+          "score": 24,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "レアジョブ英会話",
+          "genre": "学習",
+          "keyword": "レアジョブ 紹介キャンペーン 公式",
+          "url": "https://www.rarejob.com/campaign/",
+          "score": 24,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "Disney+",
+          "genre": "サブスク",
+          "keyword": "Disney+ 紹介キャンペーン 公式",
+          "url": "https://help.disneyplus.com/ja",
+          "score": 24,
+          "sourceType": "official_help",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "Notion",
+          "genre": "サブスク",
+          "keyword": "Notion 紹介キャンペーン 公式",
+          "url": "https://www.notion.com/help",
+          "score": 24,
+          "sourceType": "official_help",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "三井住友カード",
+          "genre": "金融",
+          "keyword": "三井住友カード 紹介キャンペーン 公式",
+          "url": "https://www.smbc-card.com/camp/",
+          "score": 12,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "Wolt",
+          "genre": "フード・宅配",
+          "keyword": "Wolt 友達紹介 公式",
+          "url": "https://explore.wolt.com/ja/jpn/",
+          "score": 12,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "出前館",
+          "genre": "フード・宅配",
+          "keyword": "出前館 友達紹介 公式",
+          "url": "https://demae-can.com/link/cam",
+          "score": 12,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "クックパッドマート",
+          "genre": "フード・宅配",
+          "keyword": "クックパッドマート 紹介キャンペーン 公式",
+          "url": "https://cookpad-mart.com/",
+          "score": 12,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "minne",
+          "genre": "買い物",
+          "keyword": "minne 紹介キャンペーン 公式",
+          "url": "https://minne.com/infos",
+          "score": 12,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "シェアフル",
+          "genre": "暮らし",
+          "keyword": "シェアフル 友達紹介 公式",
+          "url": "https://sharefull.com/",
+          "score": 12,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "airCloset",
+          "genre": "暮らし",
+          "keyword": "airCloset 紹介キャンペーン 公式",
+          "url": "https://www.air-closet.com/",
+          "score": 12,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "LUUP",
+          "genre": "交通",
+          "keyword": "LUUP 紹介コード 公式",
+          "url": "https://luup.sc/",
+          "score": 12,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "Duolingo",
+          "genre": "学習",
+          "keyword": "Duolingo 紹介キャンペーン 公式",
+          "url": "https://support.duolingo.com/hc/ja",
+          "score": 12,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "Cambly",
+          "genre": "学習",
+          "keyword": "Cambly 紹介キャンペーン 公式",
+          "url": "https://www.cambly.com/",
+          "score": 12,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "Spotify",
+          "genre": "サブスク",
+          "keyword": "Spotify 紹介キャンペーン 公式",
+          "url": "https://support.spotify.com/jp/",
+          "score": 12,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "YouTube Premium",
+          "genre": "サブスク",
+          "keyword": "YouTube Premium 紹介キャンペーン 公式",
+          "url": "https://support.google.com/youtube/",
+          "score": 12,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        },
+        {
+          "serviceName": "トリマ",
+          "genre": "ポイント",
+          "keyword": "トリマ 招待コード 公式",
+          "url": "https://www.trip-mile.com/",
+          "score": 12,
+          "sourceType": "official_campaign",
+          "outcome": "skipped",
+          "reason": "not_fetched"
+        }
+      ]
+    },
     {
       "id": "run-2026-07-02T06-55-02-281Z",
       "ranAt": "2026-07-02T06:55:02.281Z",
@@ -7173,752 +7947,6 @@
     {
       "id": "run-2026-07-02T06-03-26-840Z",
       "ranAt": "2026-07-02T06:03:26.840Z",
-      "generatedKeywords": 120,
-      "candidateUrls": 73,
-      "fetchedUrls": 20,
-      "published": 6,
-      "needsReview": 0,
-      "rejected": 14,
-      "skipped": 53,
-      "persisted": true,
-      "rejectionReasons": {
-        "fetch_failed": 6,
-        "missing_referral_signal": 6,
-        "missing_status_signal": 0,
-        "missing_benefit_signal": 2,
-        "low_confidence": 0,
-        "not_fetched": 53
-      },
-      "candidates": [
-        {
-          "serviceName": "povo",
-          "genre": "通信",
-          "keyword": "povo 友達紹介プログラム 公式",
-          "url": "https://povo.jp/spec/friend_invite/",
-          "score": 150,
-          "sourceType": "official_campaign",
-          "outcome": "published"
-        },
-        {
-          "serviceName": "楽天モバイル",
-          "genre": "通信",
-          "keyword": "楽天モバイル 紹介キャンペーン 公式",
-          "url": "https://network.mobile.rakuten.co.jp/campaign/referral/",
-          "score": 102,
-          "sourceType": "official_campaign",
-          "outcome": "published"
-        },
-        {
-          "serviceName": "PayPayカード",
-          "genre": "金融",
-          "keyword": "PayPayカード 紹介キャンペーン 公式",
-          "url": "https://www.paypay-card.co.jp/campaign/referral/",
-          "score": 102,
-          "sourceType": "official_campaign",
-          "outcome": "rejected",
-          "reason": "missing_referral_signal"
-        },
-        {
-          "serviceName": "ハピタス",
-          "genre": "ポイント",
-          "keyword": "ハピタス 友達紹介 公式",
-          "url": "https://hapitas.jp/friend/",
-          "score": 90,
-          "sourceType": "official_campaign",
-          "outcome": "published"
-        },
-        {
-          "serviceName": "ポイントインカム",
-          "genre": "ポイント",
-          "keyword": "ポイントインカム 友達紹介 公式",
-          "url": "https://pointi.jp/friend/",
-          "score": 90,
-          "sourceType": "official_campaign",
-          "outcome": "rejected",
-          "reason": "fetch_failed"
-        },
-        {
-          "serviceName": "ワラウ",
-          "genre": "ポイント",
-          "keyword": "ワラウ 友達紹介 公式",
-          "url": "https://www.warau.jp/friend/",
-          "score": 90,
-          "sourceType": "official_campaign",
-          "outcome": "published"
-        },
-        {
-          "serviceName": "ECナビ",
-          "genre": "ポイント",
-          "keyword": "ECナビ 友達紹介 公式",
-          "url": "https://ecnavi.jp/invite/",
-          "score": 90,
-          "sourceType": "official_campaign",
-          "outcome": "rejected",
-          "reason": "missing_benefit_signal"
-        },
-        {
-          "serviceName": "ポイントタウン",
-          "genre": "ポイント",
-          "keyword": "ポイントタウン 友達紹介 公式",
-          "url": "https://www.pointtown.com/invite/",
-          "score": 72,
-          "sourceType": "official_campaign",
-          "outcome": "rejected",
-          "reason": "fetch_failed"
-        },
-        {
-          "serviceName": "ちょびリッチ",
-          "genre": "ポイント",
-          "keyword": "ちょびリッチ 友達紹介 公式",
-          "url": "https://www.chobirich.com/friend/",
-          "score": 72,
-          "sourceType": "official_campaign",
-          "outcome": "rejected",
-          "reason": "fetch_failed"
-        },
-        {
-          "serviceName": "メルカリ",
-          "genre": "買い物",
-          "keyword": "メルカリ 招待キャンペーン 公式",
-          "url": "https://help.jp.mercari.com/guide/articles/113/",
-          "score": 54,
-          "sourceType": "official_help",
-          "outcome": "rejected",
-          "reason": "missing_referral_signal"
-        },
-        {
-          "serviceName": "menu",
-          "genre": "フード・宅配",
-          "keyword": "menu 友達紹介キャンペーン 公式",
-          "url": "https://help.menu.jp/hc/ja",
-          "score": 42,
-          "sourceType": "official_help",
-          "outcome": "rejected",
-          "reason": "fetch_failed"
-        },
-        {
-          "serviceName": "LINEMO",
-          "genre": "通信",
-          "keyword": "LINEMO 紹介キャンペーン 公式",
-          "url": "https://www.linemo.jp/campaign/",
-          "score": 42,
-          "sourceType": "official_campaign",
-          "outcome": "rejected",
-          "reason": "missing_referral_signal"
-        },
-        {
-          "serviceName": "UQ mobile",
-          "genre": "通信",
-          "keyword": "UQ mobile 紹介キャンペーン 公式",
-          "url": "https://www.uqwimax.jp/mobile/cp/",
-          "score": 42,
-          "sourceType": "official_campaign",
-          "outcome": "published"
-        },
-        {
-          "serviceName": "Y!mobile",
-          "genre": "通信",
-          "keyword": "ワイモバイル 紹介キャンペーン 公式",
-          "url": "https://www.ymobile.jp/cp/",
-          "score": 42,
-          "sourceType": "official_campaign",
-          "outcome": "rejected",
-          "reason": "missing_benefit_signal"
-        },
-        {
-          "serviceName": "IIJmio",
-          "genre": "通信",
-          "keyword": "IIJmio 紹介キャンペーン 公式",
-          "url": "https://www.iijmio.jp/campaign/",
-          "score": 42,
-          "sourceType": "official_campaign",
-          "outcome": "rejected",
-          "reason": "missing_referral_signal"
-        },
-        {
-          "serviceName": "エキサイトモバイル",
-          "genre": "通信",
-          "keyword": "エキサイトモバイル 紹介キャンペーン 公式",
-          "url": "https://bb.excite.co.jp/exmb/campaign/",
-          "score": 42,
-          "sourceType": "official_campaign",
-          "outcome": "rejected",
-          "reason": "missing_referral_signal"
-        },
-        {
-          "serviceName": "楽天カード",
-          "genre": "金融",
-          "keyword": "楽天カード 紹介キャンペーン 公式",
-          "url": "https://www.rakuten-card.co.jp/campaign/",
-          "score": 42,
-          "sourceType": "official_campaign",
-          "outcome": "published"
-        },
-        {
-          "serviceName": "JCBカード",
-          "genre": "金融",
-          "keyword": "JCBカード 紹介キャンペーン 公式",
-          "url": "https://www.jcb.co.jp/campaign/",
-          "score": 42,
-          "sourceType": "official_campaign",
-          "outcome": "rejected",
-          "reason": "missing_referral_signal"
-        },
-        {
-          "serviceName": "エポスカード",
-          "genre": "金融",
-          "keyword": "エポスカード 紹介キャンペーン 公式",
-          "url": "https://www.eposcard.co.jp/campaign/index.html",
-          "score": 42,
-          "sourceType": "official_campaign",
-          "outcome": "rejected",
-          "reason": "fetch_failed"
-        },
-        {
-          "serviceName": "イオンカード",
-          "genre": "金融",
-          "keyword": "イオンカード 紹介キャンペーン 公式",
-          "url": "https://www.aeon.co.jp/campaign/",
-          "score": 42,
-          "sourceType": "official_campaign",
-          "outcome": "rejected",
-          "reason": "fetch_failed"
-        },
-        {
-          "serviceName": "楽天証券",
-          "genre": "金融",
-          "keyword": "楽天証券 紹介プログラム 公式",
-          "url": "https://www.rakuten-sec.co.jp/web/campaign/",
-          "score": 42,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "マネックス証券",
-          "genre": "金融",
-          "keyword": "マネックス証券 紹介キャンペーン 公式",
-          "url": "https://info.monex.co.jp/campaign/",
-          "score": 42,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "松井証券",
-          "genre": "金融",
-          "keyword": "松井証券 紹介キャンペーン 公式",
-          "url": "https://www.matsui.co.jp/campaign/",
-          "score": 42,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "PayPay銀行",
-          "genre": "金融",
-          "keyword": "PayPay銀行 紹介キャンペーン 公式",
-          "url": "https://www.paypay-bank.co.jp/campaign/",
-          "score": 42,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "住信SBIネット銀行",
-          "genre": "金融",
-          "keyword": "住信SBIネット銀行 紹介キャンペーン 公式",
-          "url": "https://www.netbk.co.jp/contents/campaign/",
-          "score": 42,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "Amazon Prime",
-          "genre": "サブスク",
-          "keyword": "Amazon Prime 紹介キャンペーン 公式",
-          "url": "https://www.amazon.co.jp/gp/help/customer/display.html",
-          "score": 42,
-          "sourceType": "official_help",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "楽天市場",
-          "genre": "買い物",
-          "keyword": "楽天市場 紹介キャンペーン 公式",
-          "url": "https://event.rakuten.co.jp/campaign/",
-          "score": 42,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "ラクマ",
-          "genre": "買い物",
-          "keyword": "ラクマ 招待キャンペーン 公式",
-          "url": "https://fril.jp/guide",
-          "score": 42,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "タイミー",
-          "genre": "暮らし",
-          "keyword": "タイミー 友達紹介 公式",
-          "url": "https://help.timee.co.jp/ja/",
-          "score": 42,
-          "sourceType": "official_help",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "クラウドワークス",
-          "genre": "暮らし",
-          "keyword": "クラウドワークス 紹介キャンペーン 公式",
-          "url": "https://crowdworks.jp/pages/guides",
-          "score": 42,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "Times CAR",
-          "genre": "交通",
-          "keyword": "タイムズカー 紹介キャンペーン 公式",
-          "url": "https://share.timescar.jp/campaign/",
-          "score": 42,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "スタディサプリ",
-          "genre": "学習",
-          "keyword": "スタディサプリ 紹介キャンペーン 公式",
-          "url": "https://studysapuri.jp/campaign/",
-          "score": 42,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "楽天ペイ",
-          "genre": "ポイント",
-          "keyword": "楽天ペイ 紹介キャンペーン 公式",
-          "url": "https://pay.rakuten.co.jp/campaign/",
-          "score": 42,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "au PAY",
-          "genre": "ポイント",
-          "keyword": "au PAY 紹介キャンペーン 公式",
-          "url": "https://aupay.wallet.auone.jp/campaign/",
-          "score": 42,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "d払い",
-          "genre": "ポイント",
-          "keyword": "d払い 紹介キャンペーン 公式",
-          "url": "https://service.smt.docomo.ne.jp/keitai_payment/campaign/",
-          "score": 42,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "GO",
-          "genre": "交通",
-          "keyword": "GO タクシー 友達紹介 クーポン 公式",
-          "url": "https://go.goinc.jp/",
-          "score": 30,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "mineo",
-          "genre": "通信",
-          "keyword": "mineo 紹介キャンペーン 公式",
-          "url": "https://mineo.jp/service/discount/fan-toku/",
-          "score": 30,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "Olive",
-          "genre": "金融",
-          "keyword": "Olive 紹介キャンペーン 公式",
-          "url": "https://www.smbc.co.jp/kojin/olive/special/offers/",
-          "score": 30,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "SBI証券",
-          "genre": "金融",
-          "keyword": "SBI証券 紹介プログラム 公式",
-          "url": "https://www.sbisec.co.jp/ETGate",
-          "score": 30,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "OniGO",
-          "genre": "フード・宅配",
-          "keyword": "OniGO 友達紹介 公式",
-          "url": "https://onigo.co.jp/",
-          "score": 30,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "Yahoo!ショッピング",
-          "genre": "買い物",
-          "keyword": "Yahoo!ショッピング 紹介キャンペーン 公式",
-          "url": "https://shopping.yahoo.co.jp/promotion/",
-          "score": 30,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "PayPayフリマ",
-          "genre": "買い物",
-          "keyword": "PayPayフリマ 紹介キャンペーン 公式",
-          "url": "https://paypayfleamarket.yahoo.co.jp/",
-          "score": 30,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "Creema",
-          "genre": "買い物",
-          "keyword": "Creema 紹介キャンペーン 公式",
-          "url": "https://www.creema.jp/",
-          "score": 30,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "くらしのマーケット",
-          "genre": "暮らし",
-          "keyword": "くらしのマーケット 紹介キャンペーン 公式",
-          "url": "https://curama.jp/",
-          "score": 30,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "DiDi",
-          "genre": "交通",
-          "keyword": "DiDi タクシー 紹介クーポン 公式",
-          "url": "https://didimobility.co.jp/",
-          "score": 30,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "S.RIDE",
-          "genre": "交通",
-          "keyword": "S.RIDE 紹介クーポン 公式",
-          "url": "https://www.sride.jp/",
-          "score": 30,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "HELLO CYCLING",
-          "genre": "交通",
-          "keyword": "HELLO CYCLING 紹介キャンペーン 公式",
-          "url": "https://www.hellocycling.jp/",
-          "score": 30,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "モッピー",
-          "genre": "ポイント",
-          "keyword": "モッピー 友達紹介 公式",
-          "url": "https://pc.moppy.jp/ad/detail.php?s_id=157738",
-          "score": 30,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "Powl",
-          "genre": "ポイント",
-          "keyword": "Powl 友達紹介 公式",
-          "url": "https://static.powl.jp/",
-          "score": 30,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "PayPay",
-          "genre": "ポイント",
-          "keyword": "PayPay 友だち紹介キャンペーン 公式",
-          "url": "https://paypay.ne.jp/event/",
-          "score": 30,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "HISモバイル",
-          "genre": "通信",
-          "keyword": "HISモバイル 紹介キャンペーン 公式",
-          "url": "https://his-mobile.com/campaign",
-          "score": 24,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "みんなの銀行",
-          "genre": "金融",
-          "keyword": "みんなの銀行 紹介キャンペーン 公式",
-          "url": "https://www.minna-no-ginko.com/campaign/",
-          "score": 24,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "Coincheck",
-          "genre": "金融",
-          "keyword": "Coincheck 紹介キャンペーン 公式",
-          "url": "https://coincheck.com/ja/campaigns",
-          "score": 24,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "bitFlyer",
-          "genre": "金融",
-          "keyword": "bitFlyer 紹介キャンペーン 公式",
-          "url": "https://bitflyer.com/ja-jp/campaign",
-          "score": 24,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "Uber Eats",
-          "genre": "フード・宅配",
-          "keyword": "Uber Eats 友達紹介 公式",
-          "url": "https://help.uber.com/ubereats",
-          "score": 24,
-          "sourceType": "official_help",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "ココナラ",
-          "genre": "暮らし",
-          "keyword": "ココナラ 招待キャンペーン 公式",
-          "url": "https://coconala.com/pages/campaigns",
-          "score": 24,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "DMM英会話",
-          "genre": "学習",
-          "keyword": "DMM英会話 紹介キャンペーン 公式",
-          "url": "https://eikaiwa.dmm.com/campaign/",
-          "score": 24,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "レアジョブ英会話",
-          "genre": "学習",
-          "keyword": "レアジョブ 紹介キャンペーン 公式",
-          "url": "https://www.rarejob.com/campaign/",
-          "score": 24,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "Disney+",
-          "genre": "サブスク",
-          "keyword": "Disney+ 紹介キャンペーン 公式",
-          "url": "https://help.disneyplus.com/ja",
-          "score": 24,
-          "sourceType": "official_help",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "Notion",
-          "genre": "サブスク",
-          "keyword": "Notion 紹介キャンペーン 公式",
-          "url": "https://www.notion.com/help",
-          "score": 24,
-          "sourceType": "official_help",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "三井住友カード",
-          "genre": "金融",
-          "keyword": "三井住友カード 紹介キャンペーン 公式",
-          "url": "https://www.smbc-card.com/camp/",
-          "score": 12,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "Wolt",
-          "genre": "フード・宅配",
-          "keyword": "Wolt 友達紹介 公式",
-          "url": "https://explore.wolt.com/ja/jpn/",
-          "score": 12,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "出前館",
-          "genre": "フード・宅配",
-          "keyword": "出前館 友達紹介 公式",
-          "url": "https://demae-can.com/link/cam",
-          "score": 12,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "クックパッドマート",
-          "genre": "フード・宅配",
-          "keyword": "クックパッドマート 紹介キャンペーン 公式",
-          "url": "https://cookpad-mart.com/",
-          "score": 12,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "minne",
-          "genre": "買い物",
-          "keyword": "minne 紹介キャンペーン 公式",
-          "url": "https://minne.com/infos",
-          "score": 12,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "シェアフル",
-          "genre": "暮らし",
-          "keyword": "シェアフル 友達紹介 公式",
-          "url": "https://sharefull.com/",
-          "score": 12,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "airCloset",
-          "genre": "暮らし",
-          "keyword": "airCloset 紹介キャンペーン 公式",
-          "url": "https://www.air-closet.com/",
-          "score": 12,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "LUUP",
-          "genre": "交通",
-          "keyword": "LUUP 紹介コード 公式",
-          "url": "https://luup.sc/",
-          "score": 12,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "Duolingo",
-          "genre": "学習",
-          "keyword": "Duolingo 紹介キャンペーン 公式",
-          "url": "https://support.duolingo.com/hc/ja",
-          "score": 12,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "Cambly",
-          "genre": "学習",
-          "keyword": "Cambly 紹介キャンペーン 公式",
-          "url": "https://www.cambly.com/",
-          "score": 12,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "Spotify",
-          "genre": "サブスク",
-          "keyword": "Spotify 紹介キャンペーン 公式",
-          "url": "https://support.spotify.com/jp/",
-          "score": 12,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "YouTube Premium",
-          "genre": "サブスク",
-          "keyword": "YouTube Premium 紹介キャンペーン 公式",
-          "url": "https://support.google.com/youtube/",
-          "score": 12,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        },
-        {
-          "serviceName": "トリマ",
-          "genre": "ポイント",
-          "keyword": "トリマ 招待コード 公式",
-          "url": "https://www.trip-mile.com/",
-          "score": 12,
-          "sourceType": "official_campaign",
-          "outcome": "skipped",
-          "reason": "not_fetched"
-        }
-      ]
-    },
-    {
-      "id": "run-2026-07-02T05-59-43-160Z",
-      "ranAt": "2026-07-02T05:59:43.160Z",
       "generatedKeywords": 120,
       "candidateUrls": 73,
       "fetchedUrls": 20,
