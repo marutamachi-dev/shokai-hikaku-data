@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T17:49:35.375Z",
+  "updatedAt": "2026-08-01T17:53:47.278Z",
   "campaigns": [
     {
       "id": "campaign-104525761",
@@ -21,7 +21,7 @@
       "officialVerification": {
         "url": "https://network.mobile.rakuten.co.jp/campaign/referral/",
         "sourceType": "official_campaign",
-        "checkedAt": "2026-08-01T17:49:34.961Z",
+        "checkedAt": "2026-08-01T17:53:46.795Z",
         "evidence": [
           "楽天モバイル紹介キャンペーン",
           "終了日未定",
@@ -30,13 +30,13 @@
         ]
       },
       "discoveredAt": "2026-07-02T05:59:42.330Z",
-      "updatedAt": "2026-08-01T17:49:34.961Z",
+      "updatedAt": "2026-08-01T17:53:46.795Z",
       "officialImage": {
         "url": "https://network.mobile.rakuten.co.jp/assets/img/campaign/referral/img-ogp-250407.png",
         "sourceUrl": "https://network.mobile.rakuten.co.jp/campaign/referral/",
         "sourceType": "open_graph",
         "alt": "楽天モバイル 公式画像",
-        "checkedAt": "2026-08-01T17:49:34.961Z"
+        "checkedAt": "2026-08-01T17:53:46.795Z"
       }
     },
     {
@@ -58,7 +58,7 @@
       "officialVerification": {
         "url": "https://povo.jp/spec/friend_invite/",
         "sourceType": "official_campaign",
-        "checkedAt": "2026-08-01T17:49:34.942Z",
+        "checkedAt": "2026-08-01T17:53:46.771Z",
         "evidence": [
           "紹介キャンペーン",
           "公式ページで実施状況を確認済み",
@@ -66,19 +66,19 @@
         ]
       },
       "discoveredAt": "2026-07-02T05:59:42.308Z",
-      "updatedAt": "2026-08-01T17:49:34.942Z",
+      "updatedAt": "2026-08-01T17:53:46.771Z",
       "officialImage": {
         "url": "https://povo.jp/cms/povo/OGP/20231201_povo_New_OGP-image_1200-630.jpg",
         "sourceUrl": "https://povo.jp/spec/friend_invite/",
         "sourceType": "open_graph",
         "alt": "povo 公式画像",
-        "checkedAt": "2026-08-01T17:49:34.942Z"
+        "checkedAt": "2026-08-01T17:53:46.771Z"
       },
       "officialLogo": {
         "url": "https://povo.jp/cms/povo/img/common/logo.svg",
         "sourceUrl": "https://povo.jp/spec/friend_invite/",
         "alt": "povo",
-        "checkedAt": "2026-08-01T17:49:34.942Z"
+        "checkedAt": "2026-08-01T17:53:46.771Z"
       }
     },
     {
@@ -207,7 +207,7 @@
         ]
       },
       "discoveredAt": "2026-07-01T11:22:00.000Z",
-      "updatedAt": "2026-08-01T17:49:35.376Z"
+      "updatedAt": "2026-08-01T17:53:47.279Z"
     },
     {
       "id": "campaign-1929800160",
@@ -351,7 +351,7 @@
       "officialVerification": {
         "url": "https://hapitas.jp/friend/",
         "sourceType": "official_campaign",
-        "checkedAt": "2026-08-01T17:49:35.057Z",
+        "checkedAt": "2026-08-01T17:53:46.917Z",
         "evidence": [
           "友達紹介",
           "キャンペーン期間中に新規会員登録すると（紹介上限500人） ※エントリー必須 キャンペーン中！ 300 pt/人 2026年10月上旬 キャンペーン期間中、最初の紹介で登録した",
@@ -360,13 +360,13 @@
         ]
       },
       "discoveredAt": "2026-07-02T05:59:42.335Z",
-      "updatedAt": "2026-08-01T17:49:35.057Z",
+      "updatedAt": "2026-08-01T17:53:46.917Z",
       "officialImage": {
         "url": "https://img.hapitas.jp/img/images/facebook_share_logo_white.png",
         "sourceUrl": "https://hapitas.jp/friend/",
         "sourceType": "open_graph",
         "alt": "ハピタス 公式画像",
-        "checkedAt": "2026-08-01T17:49:35.057Z"
+        "checkedAt": "2026-08-01T17:53:46.917Z"
       }
     },
     {
@@ -388,7 +388,7 @@
       "officialVerification": {
         "url": "https://www.warau.jp/friend/",
         "sourceType": "official_campaign",
-        "checkedAt": "2026-08-01T17:49:35.074Z",
+        "checkedAt": "2026-08-01T17:53:46.936Z",
         "evidence": [
           "友達紹介キャンペーン",
           "公式ページで実施状況を確認済み",
@@ -397,19 +397,19 @@
         ]
       },
       "discoveredAt": "2026-07-02T05:59:42.399Z",
-      "updatedAt": "2026-08-01T17:49:35.074Z",
+      "updatedAt": "2026-08-01T17:53:46.936Z",
       "officialImage": {
         "url": "https://www.warau.jp/favicon.ico",
         "sourceUrl": "https://www.warau.jp/friend/",
         "sourceType": "favicon",
         "alt": "ワラウ 公式画像",
-        "checkedAt": "2026-08-01T17:49:35.074Z"
+        "checkedAt": "2026-08-01T17:53:46.936Z"
       },
       "officialLogo": {
         "url": "https://warau.akamaized.net/www.warau.jp/images/object/component/logo/warau-logo.svg?1646300502",
         "sourceUrl": "https://www.warau.jp/friend/",
         "alt": "ポイ活ならワラウ",
-        "checkedAt": "2026-08-01T17:49:35.074Z"
+        "checkedAt": "2026-08-01T17:53:46.936Z"
       }
     },
     {
@@ -441,7 +441,7 @@
         ]
       },
       "discoveredAt": "2026-07-02T05:59:42.663Z",
-      "updatedAt": "2026-08-01T17:49:35.376Z",
+      "updatedAt": "2026-08-01T17:53:47.279Z",
       "officialImage": {
         "url": "https://image.card.jp.rakuten-static.com/card_corp/pc/contents/logo_200x200.gif",
         "sourceUrl": "https://www.rakuten-card.co.jp/campaign/",
@@ -684,7 +684,7 @@
       "officialVerification": {
         "url": "https://share.timescar.jp/campaign/friend/",
         "sourceType": "official_campaign",
-        "checkedAt": "2026-08-01T17:49:35.033Z",
+        "checkedAt": "2026-08-01T17:53:46.888Z",
         "evidence": [
           "友達紹介キャンペーン",
           "公式ページで実施状況を確認済み",
@@ -693,13 +693,13 @@
         ]
       },
       "discoveredAt": "2026-07-02T06:20:53.247Z",
-      "updatedAt": "2026-08-01T17:49:35.033Z",
+      "updatedAt": "2026-08-01T17:53:46.888Z",
       "officialImage": {
         "url": "https://share.timescar.jp/favicon-apple.png",
         "sourceUrl": "https://share.timescar.jp/campaign/friend/",
         "sourceType": "favicon",
         "alt": "Times CAR 公式画像",
-        "checkedAt": "2026-08-01T17:49:35.033Z"
+        "checkedAt": "2026-08-01T17:53:46.888Z"
       }
     },
     {
@@ -721,7 +721,7 @@
       "officialVerification": {
         "url": "https://paypay.ne.jp/event/referral/",
         "sourceType": "official_campaign",
-        "checkedAt": "2026-08-01T17:49:35.092Z",
+        "checkedAt": "2026-08-01T17:53:46.956Z",
         "evidence": [
           "紹介特典",
           "終了日未定",
@@ -730,19 +730,19 @@
         ]
       },
       "discoveredAt": "2026-07-02T06:20:53.329Z",
-      "updatedAt": "2026-08-01T17:49:35.092Z",
+      "updatedAt": "2026-08-01T17:53:46.956Z",
       "officialImage": {
         "url": "https://paypay.ne.jp/uploads/2024/05/img_referral_ogp_01.png",
         "sourceUrl": "https://paypay.ne.jp/event/referral/",
         "sourceType": "open_graph",
         "alt": "PayPay 公式画像",
-        "checkedAt": "2026-08-01T17:49:35.092Z"
+        "checkedAt": "2026-08-01T17:53:46.956Z"
       },
       "officialLogo": {
         "url": "https://image.paypay.ne.jp/page/common/images/ico_logo_paypay.svg",
         "sourceUrl": "https://paypay.ne.jp/event/referral/",
         "alt": "PayPay",
-        "checkedAt": "2026-08-01T17:49:35.092Z"
+        "checkedAt": "2026-08-01T17:53:46.956Z"
       }
     },
     {
@@ -807,7 +807,7 @@
       "officialVerification": {
         "url": "https://eikaiwa.dmm.com/pages/friends-referral/",
         "sourceType": "official_campaign",
-        "checkedAt": "2026-08-01T17:49:34.927Z",
+        "checkedAt": "2026-08-01T17:53:46.758Z",
         "evidence": [
           "お友達紹介プログラム",
           "公式ページで実施状況を確認済み",
@@ -816,19 +816,19 @@
         ]
       },
       "discoveredAt": "2026-07-02T06:26:51.242Z",
-      "updatedAt": "2026-08-01T17:49:34.927Z",
+      "updatedAt": "2026-08-01T17:53:46.758Z",
       "officialImage": {
         "url": "https://assets.marketing.engoo.com/wp-content/uploads/sites/3/2026/06/18151622/ogp_referrer.jpg",
         "sourceUrl": "https://eikaiwa.dmm.com/pages/friends-referral/",
         "sourceType": "open_graph",
         "alt": "DMM英会話 公式画像",
-        "checkedAt": "2026-08-01T17:49:34.927Z"
+        "checkedAt": "2026-08-01T17:53:46.758Z"
       },
       "officialLogo": {
         "url": "https://p-smith.com/logo/eikaiwa_com.svg",
         "sourceUrl": "https://eikaiwa.dmm.com/pages/friends-referral/",
         "alt": "世界とつながるオンライン英会話 DMM英会話",
-        "checkedAt": "2026-08-01T17:49:34.927Z"
+        "checkedAt": "2026-08-01T17:53:46.758Z"
       }
     },
     {
@@ -847,7 +847,7 @@
       "officialVerification": {
         "url": "https://www.ymobile.jp/cp/invitation/",
         "sourceType": "official_campaign",
-        "checkedAt": "2026-08-01T17:49:35.024Z",
+        "checkedAt": "2026-08-01T17:53:46.881Z",
         "evidence": [
           "紹介キャンペーン",
           "終了日未定",
@@ -856,13 +856,13 @@
         ]
       },
       "discoveredAt": "2026-07-02T06:26:51.347Z",
-      "updatedAt": "2026-08-01T17:49:35.024Z",
+      "updatedAt": "2026-08-01T17:53:46.881Z",
       "officialImage": {
         "url": "https://www.ymobile.jp/common_c/images/common/ogp.png",
         "sourceUrl": "https://www.ymobile.jp/cp/invitation/",
         "sourceType": "open_graph",
         "alt": "Y!mobile 公式画像",
-        "checkedAt": "2026-08-01T17:49:35.024Z"
+        "checkedAt": "2026-08-01T17:53:46.881Z"
       },
       "inviteeBenefit": {
         "label": "550円"
@@ -889,7 +889,7 @@
       "officialVerification": {
         "url": "https://www.uqwimax.jp/mobile/cp/introduction/2026/",
         "sourceType": "official_campaign",
-        "checkedAt": "2026-08-01T17:49:35.006Z",
+        "checkedAt": "2026-08-01T17:53:46.865Z",
         "evidence": [
           "UQ mobile紹介キャンペーン",
           "キャンペーン期間中（2026年4月1日～2026年5月10日）に「対象料金プラン ★ 」に新たにお申し込み ＜対象料金プラン＞ コミコミプランバリュー、トクトクプラン2 ＜特典",
@@ -898,19 +898,19 @@
         ]
       },
       "discoveredAt": "2026-07-02T06:34:36.958Z",
-      "updatedAt": "2026-08-01T17:49:35.376Z",
+      "updatedAt": "2026-08-01T17:53:47.279Z",
       "officialImage": {
         "url": "https://www.uqwimax.jp/mobile/cp/introduction/2026/img/ogp.jpg?v=260401",
         "sourceUrl": "https://www.uqwimax.jp/mobile/cp/introduction/2026/",
         "sourceType": "open_graph",
         "alt": "UQ mobile 公式画像",
-        "checkedAt": "2026-08-01T17:49:35.006Z"
+        "checkedAt": "2026-08-01T17:53:46.865Z"
       },
       "officialLogo": {
         "url": "https://www.uqwimax.jp/assets/v2/common/images/logo_uqmobile.svg",
         "sourceUrl": "https://www.uqwimax.jp/mobile/cp/introduction/2026/",
         "alt": "UQ mobile",
-        "checkedAt": "2026-08-01T17:49:35.006Z"
+        "checkedAt": "2026-08-01T17:53:46.865Z"
       }
     },
     {
@@ -932,7 +932,7 @@
       "officialVerification": {
         "url": "https://nativecamp.net/campaign/invite_friends",
         "sourceType": "official_campaign",
-        "checkedAt": "2026-08-01T17:49:34.887Z",
+        "checkedAt": "2026-08-01T17:53:46.720Z",
         "evidence": [
           "友達紹介キャンペーン",
           "公式ページで実施状況を確認済み",
@@ -941,19 +941,19 @@
         ]
       },
       "discoveredAt": "2026-07-02T06:45:23.817Z",
-      "updatedAt": "2026-08-01T17:49:34.887Z",
+      "updatedAt": "2026-08-01T17:53:46.720Z",
       "officialImage": {
         "url": "https://nativecamp.net/images/logo_ogp.png?v=9028e2746f8",
         "sourceUrl": "https://nativecamp.net/campaign/invite_friends",
         "sourceType": "open_graph",
         "alt": "ネイティブキャンプ 公式画像",
-        "checkedAt": "2026-08-01T17:49:34.887Z"
+        "checkedAt": "2026-08-01T17:53:46.720Z"
       },
       "officialLogo": {
         "url": "https://nativecamp.net/user/images/common/logo_s.webp?v=2.1",
         "sourceUrl": "https://nativecamp.net/campaign/invite_friends",
         "alt": "オンライン英会話はネイティブキャンプ（Native Camp）",
-        "checkedAt": "2026-08-01T17:49:34.887Z"
+        "checkedAt": "2026-08-01T17:53:46.720Z"
       }
     },
     {
@@ -975,7 +975,7 @@
       "officialVerification": {
         "url": "https://www.rakuten-sec.co.jp/web/service/introduction/",
         "sourceType": "official_campaign",
-        "checkedAt": "2026-08-01T17:49:35.045Z",
+        "checkedAt": "2026-08-01T17:53:46.903Z",
         "evidence": [
           "お友達紹介プログラム",
           "公式ページで実施状況を確認済み",
@@ -984,13 +984,13 @@
         ]
       },
       "discoveredAt": "2026-07-02T06:55:00.872Z",
-      "updatedAt": "2026-08-01T17:49:35.045Z",
+      "updatedAt": "2026-08-01T17:53:46.903Z",
       "officialImage": {
         "url": "https://www.rakuten-sec.co.jp/web/images/banners/service_introduction/og-image.png",
         "sourceUrl": "https://www.rakuten-sec.co.jp/web/service/introduction/",
         "sourceType": "open_graph",
         "alt": "楽天証券 公式画像",
-        "checkedAt": "2026-08-01T17:49:35.045Z"
+        "checkedAt": "2026-08-01T17:53:46.903Z"
       }
     },
     {
@@ -1012,7 +1012,7 @@
       "officialVerification": {
         "url": "https://www.chobirich.com/introduction/",
         "sourceType": "official_campaign",
-        "checkedAt": "2026-08-01T17:49:35.333Z",
+        "checkedAt": "2026-08-01T17:53:47.232Z",
         "evidence": [
           "お友達紹介制度",
           "公式ページで実施状況を確認済み",
@@ -1021,26 +1021,26 @@
         ]
       },
       "discoveredAt": "2026-07-02T06:55:01.081Z",
-      "updatedAt": "2026-08-01T17:49:35.333Z",
+      "updatedAt": "2026-08-01T17:53:47.232Z",
       "officialImage": {
         "url": "https://www.cdn.chobirich.com/web/favicon/apple-touch-icon-180x180.png",
         "sourceUrl": "https://www.chobirich.com/introduction/",
         "sourceType": "favicon",
         "alt": "ちょびリッチ 公式画像",
-        "checkedAt": "2026-08-01T17:49:35.333Z"
+        "checkedAt": "2026-08-01T17:53:47.232Z"
       },
       "officialLogo": {
         "url": "https://www.cdn.chobirich.com/web/header/sp_header_logo.svg",
         "sourceUrl": "https://www.chobirich.com/introduction/",
         "alt": "ちょびリッチ",
-        "checkedAt": "2026-08-01T17:49:35.333Z"
+        "checkedAt": "2026-08-01T17:53:47.232Z"
       }
     }
   ],
   "diagnostics": [
     {
-      "id": "run-2026-08-01T17-49-35-375Z",
-      "ranAt": "2026-08-01T17:49:35.375Z",
+      "id": "run-2026-08-01T17-53-47-278Z",
+      "ranAt": "2026-08-01T17:53:47.278Z",
       "generatedKeywords": 80,
       "candidateUrls": 76,
       "fetchedUrls": 20,
